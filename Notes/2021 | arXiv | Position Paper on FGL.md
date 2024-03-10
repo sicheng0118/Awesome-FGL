@@ -4,4 +4,4 @@
 
 ⭐【基本信息】
 
-![](/Attachments/[ 2021 | arXiv | Position Paper on FGL ]/Info.png)
+![基本信息](Awesome-FGL/Attachments/2021 | arXiv | Position Paper on FGL/Info.png)
