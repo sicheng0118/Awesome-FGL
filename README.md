@@ -1,2 +1,5 @@
 # Awesome-FGL
-Collection of FGL papers
+
+---
+
+This repository contains useful resources for Federated Graph Learning, including popular papers, datasets and tutorials.
