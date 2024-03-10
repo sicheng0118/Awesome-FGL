@@ -4,6 +4,7 @@ This repository contains useful resources for Federated Graph Learning, includin
 - [0x00 Papers](#0x00-papers)
   - [Reviews](#reviews)
   - [Applications](#applications)
+    - [Traffic Flow Prediction](#traffic-flow-prediction)
  
 ## 0x00 Papers
 
