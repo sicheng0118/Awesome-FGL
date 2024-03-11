@@ -26,3 +26,8 @@
 - Contributions
   - We propose to **leave the training data distributed**, and **learn a shared model by aggregating locally-computed updates**.
 
+⭐【一句话总结】
+
+Q1: 本文的动机/试图解决的问题是什么？
+
+A：
