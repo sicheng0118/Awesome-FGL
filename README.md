@@ -5,6 +5,7 @@ This repository contains useful resources for Federated Graph Learning, includin
 
 - [0x00 Papers](#0x00-papers)
   - [Reviews](#reviews)
+  - [FL Methods](#fl-methods)
   - [Applications](#applications)
     - [Traffic Flow Prediction](#traffic-flow-prediction)
  
@@ -12,10 +13,14 @@ This repository contains useful resources for Federated Graph Learning, includin
 
 ### Reviews
 
-1. [ **2021 arXiv** ] *Federated Graph Learning - A Position Paper* [[paper]](https://arxiv.org/pdf/2105.11099.pdf) [[note]](https://github.com/sicheng0118/Awesome-FGL/blob/main/Notes/2021%7CarXiv%7CPosition_Paper_on_FGL.md)
+1. [ **2021 arXiv** ] _Federated Graph Learning - A Position Paper_ [[paper]](https://arxiv.org/pdf/2105.11099.pdf) [[note]](https://github.com/sicheng0118/Awesome-FGL/blob/main/Notes/2021%7CarXiv%7CPosition_Paper_on_FGL.md)
 2. 
 
+### FL Methods
+
 ### Applications
+
+1. [2017 AISTATS] _Communication-Efﬁcient Learning of Deep Networks from Decentralized Data_ [[paper]](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) [[note]] [[code]]
 
 #### Trafic Flow Prediction
 
