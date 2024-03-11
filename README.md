@@ -13,7 +13,7 @@ This repository contains useful resources for Federated Graph Learning, includin
 
 ### Reviews
 
-1. [ **2021 arXiv** ] _Federated Graph Learning - A Position Paper_ [[paper]](https://arxiv.org/pdf/2105.11099.pdf) [[note]](https://github.com/sicheng0118/Awesome-FGL/blob/main/Notes/2021%7CarXiv%7CPosition_Paper_on_FGL.md)
+1. [ **2021 arXiv** ] _Federated Graph Learning - A Position Paper_ [[paper]](https://arxiv.org/pdf/2105.11099.pdf) [[note]](https://github.com/sicheng0118/Awesome-FGL/blob/main/Notes/2021-arXiv-Position_Paper_on_FGL.md)
 2. 
 
 ### FL Methods
