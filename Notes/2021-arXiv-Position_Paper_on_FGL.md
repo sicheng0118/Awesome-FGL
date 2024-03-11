@@ -41,18 +41,26 @@ A: 本文认为**集中式训练GNN模型的传统方法，在处理分散存储
 A：已经有相关研究将FL引入GNN来应对multi-user场景，但目前一份阐明FGL定义与挑战（**尤其是足够具体的类别划分**）的文章仍悬而未决。
 
 **相关研究如下：**
-1. FGL综述：Fedgraphnn（2021）给出了关于FGL的相对完整的Benchmark。
+1. FGL综述：FedGraphNN（LCLR, 2021）给出了关于FGL的相对完整的Benchmark。
 
 **Q3: 本文提出了什么方法/如何解决这个问题？**
 
 A：本文基于 “How graph data are distributed” 的角度为FGL分类，讨论了每一类的定义与应用，分析了每一类的潜在挑战和可能的解决方案。
 
 **具体内容如下：** 
-1. 
-2.
-3.
-4.
 
+1. inter-graph FL：Each sample of clients is of **graph data**, and global model performs **graph-level tasks**. The most typical application is to learn the structure of
+molecules or the properities of drug. 
+   
+<div align=center>
+<img src="/Attachments/2021-arXiv-Position_Paper_on_FGL/kp1.png">
+</div>
+
+2. 
+
+3.
+
+4. 
 
 **Q4: 有什么可以进一步探索的点？**
 
