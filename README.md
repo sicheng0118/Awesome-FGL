@@ -18,9 +18,9 @@ This repository contains useful resources for Federated Graph Learning, includin
 
 ### FL Methods
 
+1. [ **2017 AISTATS** ] _Communication-Efﬁcient Learning of Deep Networks from Decentralized Data_ [[paper]](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) [[note]] [[code]]
+2. 
 ### Applications
-
-1. [2017 AISTATS] _Communication-Efﬁcient Learning of Deep Networks from Decentralized Data_ [[paper]](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) [[note]] [[code]]
 
 #### Trafic Flow Prediction
 
