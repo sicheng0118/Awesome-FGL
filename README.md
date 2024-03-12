@@ -1,8 +1,6 @@
 # Awesome-FGL
 This repository contains useful resources for Federated Graph Learning, including popular papers, datasets, and tutorials.
 
-笔记形式为Markdown、pdf或者Jupyter Notebook。
-
 - [0x00 Papers](#0x00-papers)
   - [Reviews](#reviews)
   - [FL Methods](#fl-methods)
