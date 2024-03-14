@@ -27,7 +27,7 @@
   - We propose to **leave the training data distributed**, and **learn a shared model by aggregating locally-computed updates**.
 
 - Experiments
-  - We perform extensive experiments on the FedAvg algorithm, demonstrating it is robust to unbalanced and non-IID data distributions, and can reduce the rounds of communication.
+  - We perform extensive experiments on the FedAvg algorithm, demonstrating it is **robust to unbalanced and non-IID data distributions**, and can **reduce the rounds of communication**.
 
 ⭐【一句话总结】
 
@@ -75,7 +75,7 @@ A: 论文通过提出并实现了一种名为联邦平均（Federated Averaging�
 
 2. 本地计算更新：每个参与的客户端（例如智能手机或平板电脑）使用其本地数据计算全局模型的更新。这些更新是通过在客户端上执行随机梯度下降（SGD）来完成的。
 
-3.模型聚合：客户端将计算出的模型更新发送到中央服务器，而不是发送原始数据。服务器收集这些更新，并使用一种称为模型平均的技术来聚合它们，从而更新全局模型。
+3. 模型聚合：客户端将计算出的模型更新发送到中央服务器，而不是发送原始数据。服务器收集这些更新，并使用一种称为模型平均的技术来聚合它们，从而更新全局模型。
 
 4. 迭代过程：更新后的全局模型再次分发给所有客户端，这个过程会迭代进行，直到模型达到预定的性能指标或收敛。
 
@@ -127,11 +127,12 @@ A：尽管论文中的联邦平均（Federated Averaging, FedAvg）算法已经�
 
 9. 实时联邦学习：研究如何设计实时联邦学习系统，以便在数据不断变化的情况下快速更新模型。
 
-10.联邦学习的理论和算法基础：深入研究联邦学习的理论和算法基础，包括收敛分析、稳定性保证和优化策略。
+10. 联邦学习的理论和算法基础：深入研究联邦学习的理论和算法基础，包括收敛分析、稳定性保证和优化策略。
 
 这些潜在的研究方向可以帮助联邦学习社区更好地理解和改进FedAvg算法，以及更广泛地应用联邦学习技术。
 
 **Q6: 总结一下论文的主要内容**
+
 A：这篇论文的主要内容可以概括如下：
 
 1. 问题陈述：论文识别了在移动设备上利用分散的、隐私敏感的大量数据来训练深度学习模型的挑战，并提出了联邦学习作为一种解决方案。
